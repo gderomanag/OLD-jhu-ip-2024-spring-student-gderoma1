@@ -1,0 +1,11 @@
+commit caa290a5a3aa61f08a1ccc4d96f474513c1813ad
+Author: Gabriel De Romana <gderoma1@ugradx.cs.jhu.edu>
+Date:   Fri Feb 2 22:41:54 2024 -0500
+
+    Addition of homework folder with hw0 inside with the 3 files
+
+commit 3bdebd36fd19bd69f2a65d8126f13a01b09e11d8
+Author: gderomanag <157391183+gderomanag@users.noreply.github.com>
+Date:   Fri Feb 2 21:52:12 2024 -0500
+
+    Initial commit
